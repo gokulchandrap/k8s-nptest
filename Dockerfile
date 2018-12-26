@@ -1,5 +1,4 @@
 FROM debian:jessie
-MAINTAINER Mahmoud Azad <mrahbar.azad@google.com>
 
 # install binary and remove cache
 RUN apt-get update \

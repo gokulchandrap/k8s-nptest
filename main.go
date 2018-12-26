@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
-	"github.com/mrahbar/k8s-nptest/integration"
-	"github.com/mrahbar/k8s-nptest/pkg"
+	"github.com/gokulchandrap/k8s-nptest/integration"
+	"github.com/gokulchandrap/k8s-nptest/pkg"
 	"os"
 )
 
